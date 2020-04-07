@@ -54,7 +54,7 @@
 
 3. ## 测试训练好的模型效果
 
-   - 每进行100次训练就会生成一次“ yolov3_training_last.weights”权重文件，而每进行1000次训练就会生成一个权重文件，例如“ yolov3_training__1000.weights”，“ yolov3_training_2000.weights”。这些权重文件需要去google云盘https://drive.google.com/下载。
+   - 每进行100次训练就会生成一次“ yolov3_training_last.weights”权重文件，而每进行1000次训练就会生成一个权重文件，例如“ yolov3_training__1000.weights”，“ yolov3_training_2000.weights”。这些权重文件需要去google云盘https://drive.google.com/ 下载。
 
    - 想要测试训练的效果如何，就将权重文件放在我的python项目的同一目录里，使用opencv来测试模型。
 
